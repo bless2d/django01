@@ -1,3 +1,6 @@
-.idea
+pychache/
+.vscode
+.idea/
+.env
 .venv
 
