@@ -3,7 +3,7 @@ pychache/
 .idea/
 .env/
 .venv/
-*.log
-__pychahe__/*
+*.log/
+__pychahe__/
 
 
