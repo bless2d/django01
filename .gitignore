@@ -1,6 +1,9 @@
 pychache/
-.vscode
+.vscode/
 .idea/
-.env
-.venv
+.env/
+.venv/
+*.log
+__pychahe__/*
+
 
