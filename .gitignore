@@ -4,6 +4,6 @@ pychache/
 .env/
 .venv/
 *.log/
-__pychahe__/
+__pychache__/
 
 
