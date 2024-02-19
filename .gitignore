@@ -1,9 +1,9 @@
-pychache/
+pycache/
 .vscode/
 .idea/
 .env/
 .venv/
 *.log/
-__pychache__/
+__pycache__/
 
 
