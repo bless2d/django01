@@ -10,6 +10,10 @@ python -m venv venv
 ```
 venv\Scripts\activate.bat
 ```
+## для линукс:
+```
+source venv/bin/activate
+```
 ## 5. Устанавливаем все зависимости
 ```commandline
 pip install -r requirements.txt.
