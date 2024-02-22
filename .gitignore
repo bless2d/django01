@@ -1,7 +1,7 @@
 pycache/
 .vscode/
 .idea/
-.env/
+.env
 .venv/
 *.log/
 __pycache__/
